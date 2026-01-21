@@ -1,0 +1,10 @@
+{
+    "Rdshell":{
+        "Version": "1.0.0",
+        "Creator": "github.com/rdalx42",
+        "Commands":[
+            "javac -d out ../src/bf/*.java",
+            "java -cp out bf.Main"
+        ]
+    }
+}
